@@ -22,8 +22,8 @@
         font-size: 19px;
         white-space: pre-wrap; /* Preserve line breaks */
         line-height: 1.6;
-        margin: 20px;
         text-indent: 2em;
+        text-align: justify;
         width: 80%;
         margin: 0 auto;
     }

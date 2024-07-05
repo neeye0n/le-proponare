@@ -24,6 +24,5 @@
         justify-content: center;
         height: 100vh;
         font-family: 'Gelasio';
-        text-align: justify;
     }
 </style>
